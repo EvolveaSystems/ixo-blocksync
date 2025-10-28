@@ -8,7 +8,6 @@
     "dropdb": "tsc && node build/dist/dropdb.js",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "node preinstall.js"
   },
   "repository": "https://github.com/ixofoundation/ixo-blocksync",
   "keywords": [
